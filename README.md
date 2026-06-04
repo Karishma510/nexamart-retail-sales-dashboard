@@ -1,16 +1,16 @@
-## nexamart-retail-sales-dashboard
+# nexamart-retail-sales-dashboard
 Interactive Excel dashboard analysing retail sales using Pivot tables, Pivot charts, Slicers and KPI Cards.
 NexaMart Retail Sales Dashboard
 
-# Problem Statement
+## Problem Statement
 
 The objective of this project is to analyze retail sales performance and identify key business insights related to sales trends, customer demographics, product categories, sales channels, and regional performance. The dashboard helps stakeholders make data-driven decisions by providing a clear view of business performance.
 
-# Project Overview
+## Project Overview
 
 An interactive Excel dashboard was created using Pivot Tables, Pivot Charts, Slicers, and KPI Cards to analyze retail sales data.
 
-# Tools Used
+## Tools Used
 
 - Microsoft Excel
 - Pivot Tables
@@ -19,13 +19,13 @@ An interactive Excel dashboard was created using Pivot Tables, Pivot Charts, Sli
 - KPI Cards
 - Dashboard Design
 
-# KPIs
+## KPIs
 
 - Total Sales: ₹21.18M
 - Total Orders: 31.05K
 - Delivery Success Rate: 92.25%
 
-# Key Insights
+## Key Insights
 
 - Women customers contributed approximately 64% of total sales.
 - Maharashtra generated the highest sales among all states.
